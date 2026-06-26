@@ -77,5 +77,6 @@ int main() {
     std::cout << "-------------------------------------------\n";
     std::cout << "Integrantes del Grupo 7:\n";
     std::cout << "- Jesus Perez C.I: 30.754.920.\n";
+    std::cout << "- Eslaimer Peña C.I: 31.546.912.\n";
     return 0;
 }
